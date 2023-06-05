@@ -2,9 +2,9 @@ import React from 'react'
 import './assets/home.css';
 import './assets/theme.css';
 import Photo from './components/Photo';
-import {photos} from './db/photos.json'
+import ListPhoros from './db/photos'
 function App() {
-
+  const {photos} = ListPhoros; 
   return (
     <>
       <div className="bg-black text-white mt-0" data-bs-spy="scroll" data-bs-target="#navScroll">

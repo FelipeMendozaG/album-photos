@@ -1,7 +1,6 @@
 import React from "react";
 import Logo from "../assets/social.png";
 import OndasSonoras from "../assets/ondas-sonoras.png";
-import { Link } from 'react-router-dom';
 
 const Photo=(props)=>{
     const {image} = props;
