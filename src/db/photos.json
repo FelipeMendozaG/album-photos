@@ -1,0 +1,36 @@
+{
+    "photos":[
+        {
+            "url":"/src/assets/photos/PHOTO1.jpg",
+            "token_music":"0vg4WnUWvze6pBOJDTq99k"
+        },
+        {
+            "url":"/src/assets/photos/PHOTO2.jpg",
+            "token_music":"0s26En1JoJhVj32vizElpA"
+        },
+        {
+            "url":"/src/assets/photos/PHOTO3.jpg",
+            "token_music":"1XZPtZVqcOzzxbYIR7MjQw"
+        },
+        {
+            "url":"/src/assets/photos/PHOTO4.jpg",
+            "token_music":"5l6hpyTGBK0LAAxgPnqTQL"
+        },
+        {
+            "url":"/src/assets/photos/PHOTO6.jpg",
+            "token_music":"0ntQJM78wzOLVeCUAW7Y45"
+        },
+        {
+            "url":"/src/assets/photos/PHOTO7.jpg",
+            "token_music":"7uMBJGgc3QWdDQWBtBoPzj"
+        },
+        {
+            "url":"/src/assets/photos/PHOTO8.jpg",
+            "token_music":"5S6rbF0oCQeyJ2uXLuC9G5"
+        },
+        {
+            "url":"/src/assets/photos/PHOTO5.jpg",
+            "token_music":"5uuoLIhCVI35VrJ9XFrLHm"
+        }
+    ]
+}
